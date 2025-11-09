@@ -1,0 +1,9 @@
+HW: 0281011199
+SW: 1037366689
+VIN nr.: 
+SW ver.: 39S01355
+Spare: 
+Engine: 1,9l R4 EDC  SG 
+HW Ver.: 
+SW upg.: 038906019BH 1591
+Installation: 
