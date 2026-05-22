@@ -1,0 +1,9 @@
+HW: 
+SW: 
+VIN nr.: WAUZZZ8V8DA041149
+SW ver.: 
+Spare: 
+Engine: R4 1,6L EDC  
+HW Ver.: 
+SW upg.: 04L906021AL  4945
+Installation: EDC17 CB.06.07.01 C50.00     

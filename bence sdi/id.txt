@@ -1,0 +1,9 @@
+HW: 0281010104
+SW: 
+VIN nr.: 
+SW ver.: 28SA4044
+Spare: 
+Engine: 1,9l R4 EDC  SG 
+HW Ver.: 
+SW upg.: 038906012J  2525
+Installation: 
